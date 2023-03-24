@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="abrir_login">ABRIR LOGIN</string>
+    <string name="abrir_splash">abrir splash</string>
+</resources>
